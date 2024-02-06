@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajeshwaraa
+- 👋 Hi, I’m @rajeshwaran
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Power BI & Python
+- 🌱 I’m currently learning MS Fabric
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ... rajeshwaranr91@gmail.com
 
